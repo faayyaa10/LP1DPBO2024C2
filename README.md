@@ -18,11 +18,11 @@ Berikut adalah dokumentasi saat menjalankan kode program dengan bahasa python:
 
 1. Menambahkan beberapa anggota pada list dengan atribut ID, Nama, Bidang dan Partai kemudian menampilkan tabel daftar anggota
    <img width="960" alt="Menambah Anggota 1 dan Menampilkan" src="https://github.com/faayyaa10/LP1DPBO2024C2/assets/114636102/42714024-57db-4901-882d-49b56f00e68d">
-<img width="960" alt="Menambah Anggota 2 dan Menampilkan" src="https://github.com/faayyaa10/LP1DPBO2024C2/assets/114636102/ef9735ee-ab43-4906-b456-49c3c1b5d314">
-<img width="960" alt="Menambah Anggota 3 dan Menampilkan" src="https://github.com/faayyaa10/LP1DPBO2024C2/assets/114636102/d23a85b7-38a3-4fb6-9bc3-1acfc48a3589">
+   <img width="960" alt="Menambah Anggota 2 dan Menampilkan" src="https://github.com/faayyaa10/LP1DPBO2024C2/assets/114636102/ef9735ee-ab43-4906-b456-49c3c1b5d314">
+   <img width="960" alt="Menambah Anggota 3 dan Menampilkan" src="https://github.com/faayyaa10/LP1DPBO2024C2/assets/114636102/d23a85b7-38a3-4fb6-9bc3-1acfc48a3589">
 
 2. Mengubah salah satu atribut dari anggota partai dan menampilkan tabel daftar anggota
-  <img width="960" alt="Mengubah Anggota dan Menampilkan" src="https://github.com/faayyaa10/LP1DPBO2024C2/assets/114636102/7ac158d0-5495-45bb-9edd-6c87a4f20ddd">
+   <img width="960" alt="Mengubah Anggota dan Menampilkan" src="https://github.com/faayyaa10/LP1DPBO2024C2/assets/114636102/7ac158d0-5495-45bb-9edd-6c87a4f20ddd">
 
 3. Menghapus salah satu anggota partai dari list, menampilkan tabel daftar anggota dan keluar dari program
    <img width="960" alt="Menghapus Anggota, Menampilkan dan Keluar Program" src="https://github.com/faayyaa10/LP1DPBO2024C2/assets/114636102/b179cdde-1938-487e-9748-663fc8b7e7cb">
